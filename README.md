@@ -1,7 +1,7 @@
 # irene_stt
 Плагин для `Home Assistant`, позволяющий использовать [Ирину](https://github.com/janvarev/Irene-Voice-Assistant) в качестве STT (распознавания речи в текст). 
 
-Для работы требуется [Ирина](https://github.com/janvarev/Irene-Voice-Assistant) запущенная в режиме `runva_webapi.py` и мой плагин [IreneVA_Willow_plugin](https://github.com/6PATyCb/IreneVA_Willow_plugin) версии не ниже 2.1 (Willow устройство не требуется), т.к. его эндпоинт `/api/willow` используется для преобразования голоса в текст.
+Для работы требуется [Ирина](https://github.com/janvarev/Irene-Voice-Assistant) запущенная в режиме `runva_webapi.py` и мой плагин [IreneVA_Willow_plugin](https://github.com/6PATyCb/IreneVA_Willow_plugin) версии не ниже 2.1, т.к. его эндпоинт `/api/willow` используется для преобразования голоса в текст (Willow устройство не требуется).
 
 ## Как установить плагин
 
