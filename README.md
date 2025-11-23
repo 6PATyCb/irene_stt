@@ -1,4 +1,4 @@
-# irene_stt
+# Irene STT
 Плагин для `Home Assistant`, позволяющий использовать [Ирину](https://github.com/janvarev/Irene-Voice-Assistant) в качестве STT (распознавания речи в текст). 
 
 [![Add Integration](https://my.home-assistant.io/badges/config_flow_start.svg)](https://my.home-assistant.io/redirect/config_flow_start/?domain=irene_stt)
